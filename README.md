@@ -1,0 +1,2 @@
+# Yawning-and-Drowning-Detection-with-Machine-Learning-Algorithms
+This project focuses on leveraging machine learning algorithms for the detection of two critical scenarios - yawning and drowning. Yawning detection utilizes a pre-trained model to accurately identify instances of yawning in input data. On the other hand, drowning detection involves a meticulously trained model using the MRLEyes_2018_01 dataset.
